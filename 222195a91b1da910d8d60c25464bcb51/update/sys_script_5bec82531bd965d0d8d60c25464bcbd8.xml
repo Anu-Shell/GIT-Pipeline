@@ -30,7 +30,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	gs.log("Hello123 :");
+	gs.log("Hello123-JGD :");
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -39,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5bec82531bd965d0d8d60c25464bcbd8</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>TEST BR</sys_name>
         <sys_overrides/>
         <sys_package display_value="GIT pipeline" source="x_rdsp2_git_pipeli">222195a91b1da910d8d60c25464bcb51</sys_package>
@@ -47,7 +47,7 @@
         <sys_scope display_value="GIT pipeline">222195a91b1da910d8d60c25464bcb51</sys_scope>
         <sys_update_name>sys_script_5bec82531bd965d0d8d60c25464bcbd8</sys_update_name>
         <sys_updated_by>INAGRD</sys_updated_by>
-        <sys_updated_on>2023-03-06 07:40:37</sys_updated_on>
+        <sys_updated_on>2023-03-06 07:54:16</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
