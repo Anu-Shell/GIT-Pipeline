@@ -26,7 +26,7 @@ jobs:
           nowPassword: ${{ secrets.SN_PASSWORD }}
           nowSourceInstance: ${{ secrets.SN_TEST_INSTANCE }}
           appSysID: ${{ secrets.SN_APP_SYSID }}
-          branch: 'dev'
+          branch: 'master'
   
   unit_test:
     name: Run ATF in Test
