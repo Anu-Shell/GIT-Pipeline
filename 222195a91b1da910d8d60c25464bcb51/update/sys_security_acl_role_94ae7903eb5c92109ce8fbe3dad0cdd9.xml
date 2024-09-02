@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>INAGRD</sys_created_by>
+        <sys_created_on>2024-09-02 03:49:33</sys_created_on>
+        <sys_id>94ae7903eb5c92109ce8fbe3dad0cdd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GIT pipeline" source="x_rdsp2_git_pipeli">222195a91b1da910d8d60c25464bcb51</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT pipeline">222195a91b1da910d8d60c25464bcb51</sys_scope>
+        <sys_security_acl display_value="x_rdsp2_git_pipeli_git_pipeline">10ae7903eb5c92109ce8fbe3dad0cdd6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_94ae7903eb5c92109ce8fbe3dad0cdd9</sys_update_name>
+        <sys_updated_by>INAGRD</sys_updated_by>
+        <sys_updated_on>2024-09-02 03:49:33</sys_updated_on>
+        <sys_user_role display_value="x_rdsp2_git_pipeli.git_pipeline_user" name="x_rdsp2_git_pipeli.git_pipeline_user">779e7903eb5c92109ce8fbe3dad0cd84</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

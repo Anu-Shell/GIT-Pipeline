@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Git Pipeli Git Pipeline</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_rdsp2_git_pipeli_git_pipeline</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>INAGRD</sys_created_by>
+        <sys_created_on>2024-09-02 03:49:32</sys_created_on>
+        <sys_id>d04e3503eb5c92109ce8fbe3dad0cdad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git Pipeline</sys_name>
+        <sys_package display_value="GIT pipeline" source="x_rdsp2_git_pipeli">222195a91b1da910d8d60c25464bcb51</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT pipeline">222195a91b1da910d8d60c25464bcb51</sys_scope>
+        <sys_update_name>sys_db_object_d04e3503eb5c92109ce8fbe3dad0cdad</sys_update_name>
+        <sys_updated_by>INAGRD</sys_updated_by>
+        <sys_updated_on>2024-09-02 03:49:32</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_rdsp2_git_pipeli.git_pipeline_user" name="x_rdsp2_git_pipeli.git_pipeline_user">779e7903eb5c92109ce8fbe3dad0cd84</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
