@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d04e3503eb5c92109ce8fbe3dad0cdad" label="Git Pipeli Git Pipeline" max_length="40" name="x_rdsp2_git_pipeli_git_pipeline" type="collection">
+        <element label="Business application" max_length="32" name="business_application" reference="cmdb_ci_business_app" type="reference"/>
+        <element label="Git URL" max_length="40" name="git_url" type="string"/>
+        <index name="index">
+            <element name="business_application"/>
+        </index>
+    </element>
+</database>
