@@ -3,7 +3,7 @@
         <abort_action>false</abort_action>
         <access>package_private</access>
         <action_delete>false</action_delete>
-        <action_insert>false</action_insert>
+        <action_insert>true</action_insert>
         <action_query>false</action_query>
         <action_update>false</action_update>
         <active>true</active>
@@ -33,6 +33,7 @@
 
 	gs.log("Hello123-JGD Muruga1:");
 	gs.log("testing on branch 2:");
+	gs.log("Sprint branch");
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -41,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5bec82531bd965d0d8d60c25464bcbd8</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>TEST BR</sys_name>
         <sys_overrides/>
         <sys_package display_value="GIT pipeline" source="x_rdsp2_git_pipeli">222195a91b1da910d8d60c25464bcb51</sys_package>
@@ -49,7 +50,7 @@
         <sys_scope display_value="GIT pipeline">222195a91b1da910d8d60c25464bcb51</sys_scope>
         <sys_update_name>sys_script_5bec82531bd965d0d8d60c25464bcbd8</sys_update_name>
         <sys_updated_by>INAGRD</sys_updated_by>
-        <sys_updated_on>2024-09-04 07:06:23</sys_updated_on>
+        <sys_updated_on>2024-09-04 07:53:59</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
