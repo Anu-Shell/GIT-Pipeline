@@ -81,7 +81,7 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
-        <short_description>Git Pipeline</short_description>
+        <short_description>Git Pipeline1</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -89,14 +89,14 @@
         <sys_created_by>INAGRD</sys_created_by>
         <sys_created_on>2024-09-02 03:54:20</sys_created_on>
         <sys_id>3f9f3943eb5c92109ce8fbe3dad0cdd4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Check for Branching1</sys_name>
         <sys_package display_value="GIT pipeline" source="x_rdsp2_git_pipeli">222195a91b1da910d8d60c25464bcb51</sys_package>
         <sys_policy/>
         <sys_scope display_value="GIT pipeline">222195a91b1da910d8d60c25464bcb51</sys_scope>
         <sys_update_name>sc_cat_item_producer_3f9f3943eb5c92109ce8fbe3dad0cdd4</sys_update_name>
         <sys_updated_by>INAGRD</sys_updated_by>
-        <sys_updated_on>2024-09-04 08:17:26</sys_updated_on>
+        <sys_updated_on>2024-09-05 03:57:58</sys_updated_on>
         <table_name>x_rdsp2_git_pipeli_git_pipeline</table_name>
         <taxonomy_topic/>
         <template/>
@@ -104,7 +104,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>3</version>
+        <version>4</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
